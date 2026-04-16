@@ -1,0 +1,14 @@
+streamlit
+langgraph
+langchain-core
+langchain-groq
+xgboost
+torch
+transformers
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+scikit-learn
+matplotlib
+python-dotenv
